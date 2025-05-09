@@ -1,4 +1,4 @@
-# DataFest2025
+# DataFest 2025
 2024-2025 DataFest Project on Real Estate Data - Aashish Cheruvu, Abhinav Meduri, Shravan Selvavel, Sharad Parulekar
 
 This project deals with data visualizations and real estate data analysis, developing a composite leasability index to understand market strength within real estate on a national scale. Our findings were made possible by utilizing advanced data visualization, SHAP Analysis for feature extraction, and the Prophet forecasting model for future projections.
